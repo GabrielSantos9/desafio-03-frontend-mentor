@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+@font-face {
+    font-family: 'Outfit', sans-serif;
+    src: url('/src/font/Outfit/Outfit-VariableFont_wght.ttf');
+    font-weight: 300, 400, 600;
+}
